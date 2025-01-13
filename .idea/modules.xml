@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaAutomation.iml" filepath="$PROJECT_DIR$/.idea/JavaAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project7/Project7.iml" filepath="$PROJECT_DIR$/Project7/Project7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project8/Project8.iml" filepath="$PROJECT_DIR$/Project8/Project8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project9/Project9.iml" filepath="$PROJECT_DIR$/Project9/Project9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/Section3.iml" filepath="$PROJECT_DIR$/Section3/Section3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section4-Project/Section4-Project.iml" filepath="$PROJECT_DIR$/Section4-Project/Section4-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section6-Projects/Section6-Projects.iml" filepath="$PROJECT_DIR$/Section6-Projects/Section6-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section7-Project/Section7-Project.iml" filepath="$PROJECT_DIR$/Section7-Project/Section7-Project.iml" />
+    </modules>
+  </component>
+</project>
